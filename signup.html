@@ -1,0 +1,185 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Create Your Account</title>
+<link rel="stylesheet" href="signup.css">
+<style>
+  /* General Styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f5f5f5;
+  }
+  
+  .login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Logo and Background Image */
+  .logo {
+    width: 100px;
+    display: block;
+    margin: 0 auto 20px;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.3;
+    z-index: -1;
+  }
+  
+  /* Form Styles */
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Additional Signup Styles */
+  .login-container.signup-container {
+    height: 500px;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  a.login-link {
+    color: #4CAF50;
+    font-weight: bold;
+  }
+  
+</style>
+</head>
+<body>
+
+<div class="login-container signup-container">
+  <img src="logo.png" alt="Company Logo" class="logo">
+  <h1>Create Your Account</h1>
+  
+    <div class="form-group">
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username" required>
+    </div>
+    <div class="form-group">
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+    <div class="form-group">
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required>
+    </div>
+    <div class =" "></div>
+    <div class="form-group">
+      <input type="checkbox" id="terms" required>
+      <label for="terms">I agree to the <a href="#">Terms of Service</a> and <a href="#">Privacy Policy</a>.</label>
+    </div>
+    <div>
+      <form action="./login.html" method="post">
+        <!-- Your form fields go here -->
+        
+        <!-- Submit button -->
+        <button type="submit">Submit</button><a href ="login.html"></a>
+      </form>
+    </div>
+    <p>Already have an account? <a href="login.html">Log in here</a></p>
+    <img src="signup.jpg" alt="Background Image" class="background-image">
+</div>
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-database.js";
+  import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-database.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyCeIM-M-548gbC0nmtp_J947hanClTBPFY",
+    authDomain: "authentication-55490.firebaseapp.com",
+    databaseURL: "https://authentication-55490-default-rtdb.firebaseio.com",
+    projectId: "authentication-55490",
+    storageBucket: "authentication-55490.appspot.com",
+    messagingSenderId: "858779855391",
+    appId: "1:858779855391:web:0e538de48c5952bfff832a",
+    measurementId: "G-E3VWLVTS6Z"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const database = getDatabase(app);
+  const auth = getAuth();
+
+
+  signup.addEventListener('click',(e) => {
+
+    var email = document.getElementById('email').value;
+    var password = document.getElementById('password').value;
+    var username = document.getElementById('username').value;
+
+    createUserWithEmailAndPassword(auth, email, password)
+  .then((userCredential) => {
+    // Signed up 
+    const user = userCredential.user;
+    alert('user Created');
+    // ...
+  })
+  .catch((error) => {
+    const errorCode = error.code;
+    const errorMessage = error.message;
+    alert(errorMessage);
+    // ..
+  });
+
+
+  });
+</script>
+</body>
+</html>

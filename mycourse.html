@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Courses</title>
+    <link rel="stylesheet" href="getstarted.css">
+</head>
+<body>
+    <div class="header">
+        <div class="user-profile">
+            <img src="user-avatar.png" alt="User Avatar">
+            <span>User Name</span>
+        </div>
+        <div class="header-icons">
+            <form id="search-form">
+                <div class="search">
+                    <input type="text" name="search" class="round" placeholder="Search">
+                    <input type="submit" class="corner" value="" />
+                </div>
+            </form>
+            <div class="notification-icon">
+                <!-- Add your notification icon HTML or font icon here -->
+                <!-- Example: <i class="fa fa-bell"></i> -->
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="sidebar">
+            <div class="logo">
+                <img src="your-logo.png" alt="Your Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="getstarted.html">Dashboard</a></li>
+                    <li><a href="mycourse.html">My Courses</a></li>
+                    <li><a href="enrollment.html">Enrollments</a></li>
+                    <li><a href="settings.html">Settings</a></li>
+                    <li><a href="logout.html">Logout</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="content">
+            <!-- My Courses Content Section -->
+            <h2>My Courses</h2>
+            <div class="course-list">
+                <!-- Add courses dynamically based on user enrollment -->
+                <div class="course">
+                    <h3>Course 1</h3>
+                    <p>Description for Course 1</p>
+                    <!-- Add more details or buttons as needed -->
+                </div>
+                <div class="course">
+                    <h3>Course 2</h3>
+                    <p>Description for Course 2</p>
+                    <!-- Add more details or buttons as needed -->
+                </div>
+                <!-- Add more courses as needed -->
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

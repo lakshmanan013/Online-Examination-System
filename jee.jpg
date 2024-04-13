@@ -1,0 +1,2305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="bGApktwcRdK_UcqfZ06xE7cBq9PK5R_uQ6X5RopGbGo" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <title>Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)</title>
+    <meta name="keywords">
+    <meta name="description" content=" ">
+<script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)", 
+  "image": "https://cdn.arihantbooks.com/assets/ProductImage/9789358893236.jpg", 
+  "description": "This boxset contains the following titles:
+&lt;ol&gt;
+	&lt;li&gt;Master Resource Book in Physics for JEE Main 2024&lt;/li&gt;
+	&lt;li&gt;Master Resource Book in Chemistry for JEE Main 2024&lt;/li&gt;
+	&lt;li&gt;Master Resource Book in Mathematics for JEE Main 2024&lt;/li&gt;
+&lt;/ol&gt;
+Get your hands on the updated &amp;amp; revised edition of &amp;ldquo;&lt;strong&gt;Master Resource Book for JEE Main Series&lt;/strong&gt;&amp;rdquo;, which has been prepared in sync with the recent changes in the test pattern and format of JEE Main exam. This book &lt;strong&gt;covers all the topics of Physics with detailed theories, an ample number of solved examples, 2 Level Exercises, and practice problems as per the class 11&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;th&lt;/sup&gt;&lt;/strong&gt;&lt;strong&gt; &amp;amp; 12&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;th&lt;/sup&gt;&lt;/strong&gt;&lt;strong&gt; syllabus&lt;/strong&gt;. Besides this, each chapter is equipped with &lt;strong&gt;Previous Years&amp;rsquo; Questions of AIEEE &amp;amp; JEE Main&lt;/strong&gt; to analyze the difficulty level and nature of questions asked in the exam. &lt;strong&gt;With more than 5000 MCQs containing diverse typologies of questions&lt;/strong&gt;, this is the only book that helps aspirants to prepare in a systematic manner with the paramount importance of problem-solving.&amp;nbsp;", 
+  "brand": { 
+    "@type": "Brand", 
+    "name": "Arihant Publications" 
+  }, 
+  "sku": "CJ003", 
+  "gtin13": "9789358893236", 
+  "offers": { 
+    "@type": "Offer", 
+    "url": "https://www.arihantbooks.com/shop/products/master-resource-book-for-jee-main-2024-physics-chemistry-mathematics-set-of-3books", 
+    "priceCurrency": "INR", 
+    "price": "2026", 
+    "priceValidUntil": "2024-12-31", 
+    "availability": "https://schema.org/OutOfStock", 
+    "itemCondition": "https://schema.org/NewCondition" 
+  }, 
+  "aggregateRating": { 
+    "@type": "AggregateRating", 
+    "ratingValue": "4.9", 
+    "ratingCount": "5" 
+  } 
+} 
+</script>
+
+
+<script type="application/ld+json">
+         {
+         "@context": "https://schema.org/",
+         "@type": "BreadcrumbList",
+         "itemListElement": [{
+         "@type": "ListItem",
+         "position": 1,
+         "name": "Arihant Publications",
+         "item": "https://arihantbooks.com/"},
+         {
+         "@type": "ListItem",
+         "position": 2,
+         "name": "Engineering Entrances",
+         "item": "https://arihantbooks.com/shop/collections/engineering-entrances"    }]
+         }     
+</script>
+
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Arihant Publications India Limited",
+        "alternateName": "Arihant Publications",
+        "url": "https://arihantbooks.com/",
+        "logo": "https://www.arihantbooks.com/assets/images/arihant-logo.svg",
+        "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-11-40546380",
+        "contactType": "customer service",
+        "contactOption": "TollFree",
+        "areaServed": "IN",
+        "availableLanguage": ["en","Hindi"]
+        },
+        "sameAs": [
+        "https://www.facebook.com/arihantpub/",
+        "https://twitter.com/arihantpub",
+        "https://www.instagram.com/arihantpub/",
+        "https://www.youtube.com/channel/UCfF3vxOOKZXGccv12NoHqXw",
+        "https://www.linkedin.com/company/arihantpublications"
+        ]
+        }
+    </script>
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/new-style.css">
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/animate.css">
+    <link href="/assets/toast/toastr.min.css" rel="stylesheet" />
+    <link href="/assets/toast/toastr.css" rel="stylesheet" />
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700|Oswald:200,300,400,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500&display=swap" rel="stylesheet">
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/admin-assets/js/plugins/validation/additional-methods.min.js"></script>
+
+
+
+    <style>
+        .error {
+            border: 2px solid #aa0000 !important;
+        }
+
+            .error:focus {
+                border: 2px solid #aa0000 !important;
+            }
+
+        label.error {
+            display: none !important;
+        }
+        /* page style */
+        a, a:focus, a:active, a:hover, object, embed {
+            outline: none;
+            text-decoration: none;
+        }
+
+        :-moz-any-link:focus {
+            outline: none;
+        }
+
+        input::-moz-focus-inner {
+            border: 0;
+        }
+
+        :focus {
+            outline: 0;
+        }
+    </style>
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return; n = f.fbq = function () {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+                n.queue = []; t = b.createElement(e); t.async = !0;
+                t.src = v; s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window, document, 'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '323348949917074');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=323348949917074&ev=PageView&noscript=1" />
+        </noscript>
+        <!-- End Facebook Pixel Code -->
+		        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WW7HPJGB');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVW3Y88QL3"></script>
+        <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-MVW3Y88QL3'); gtag('config', 'AW-10965296057'); </script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9089064120484990"
+                crossorigin="anonymous">
+        </script>
+		<!-- Snap Pixel Code -->
+        <script type='text/javascript'>
+            (function (e, t, n) {
+                if (e.snaptr) return; var a = e.snaptr = function ()
+                { a.handleRequest ? a.handleRequest.apply(a, arguments) : a.queue.push(arguments) };
+                a.queue = []; var s = 'script'; r = t.createElement(s); r.async = !0;
+                r.src = n; var u = t.getElementsByTagName(s)[0];
+                u.parentNode.insertBefore(r, u);
+            })
+            (window, document, 'https://sc-static.net/scevent.min.js');
+
+            snaptr('init', '8364a32a-9411-45c3-8d5e-242477d4e3f0', {
+                'user_email': 'aman@arihantbooks.com'
+            });
+
+            snaptr('track', 'PAGE_VIEW');
+            var url = window.location.href.toLowerCase();
+            if (url.indexOf('home/cart')>-1) {
+                snaptr('track', 'ADD_CART');
+            }
+        </script>
+        <!-- End Snap Pixel Code -->
+    <style>
+        .navbar-nav > li > .dropdown-menu {
+            border-top-left-radius: 4px;
+            border-top-right-radius: 4px;
+        }
+
+        .dropdown-menu {
+            width: 100%;
+            min-width: 300px;
+        }
+
+        .mega-dropdown {
+            position: static !important;
+        }
+
+
+
+        .mega-dropdown-menu > li > ul {
+            padding: 0;
+            margin: 0;
+        }
+
+            .mega-dropdown-menu > li > ul > li {
+                list-style: none;
+            }
+
+                .mega-dropdown-menu > li > ul > li > a {
+                    display: block;
+                    padding: 3px 20px;
+                    clear: both;
+                    font-weight: normal;
+                    line-height: 1.428571429;
+                    color: #999;
+                    white-space: normal;
+                }
+
+                    .mega-dropdown-menu > li > ul > li > a:hover {
+                        color: #e2e2e2;
+                        text-decoration: none;
+                    }
+
+        .dropdown-header {
+            font-size: 15px;
+            text-transform: uppercase;
+            font-weight: 500;
+            border-bottom: 1px solid #f1f1f1;
+            margin: 10px 0;
+            color: #000;
+        }
+
+        .menu-images {
+            padding: 5px 20px 5px 20px;
+        }
+
+        .dropdown.mega-dropdown:hover,
+        .dropdown.mega-dropdown:active,
+        .dropdown.mega-dropdown:focus {
+            background: #eee;
+        }
+
+        .single-item:hover,
+        .single-item:active,
+        .single-item:focus {
+            background: #eee;
+        }
+
+        span.glyphicon.glyphicon-chevron-down {
+            padding: 2px 10px;
+        }
+
+        .dropdown-menu {
+            background: #fff !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW7HPJGB"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="wrapper">
+        <header class="main-header">
+            <div class="container main-menu-wrp new-search-bar">
+
+                <div class="header_area col-lg-8">
+                    <div class="main_header_area animated">
+                        <nav id="navigation1" class="navigation">
+                            <div class="nav-header">
+                                <div class="nav-toggle"></div>
+                                <a class="navbar-brand" href="/"><img src="/assets/images/arihant-logo.svg" alt="" /></a>
+
+                            </div>
+
+                            <div class="nav-menus-wrapper">
+                                <ul class="nav-menu">
+                                    <li>
+                                        <a href="#">Books</a>
+                                        <div class="megamenu-panel">
+                                            <div class="megamenu-lists container">
+                                                <div class="row">
+    <div class="col-md-4">
+        <ul class="megamenu-list megamenu-list megamenu-col-1 megamenu-col">
+                    <li>
+                        <h3>
+                            <a href="/shop/collections/competitive-exams" style="padding-left:0px !important;color: #636363;">Competitive Exams</a>
+                        </h3>
+                    </li>
+                        <li><a href="/shop/collections/agriculture"> Agriculture </a></li>
+                        <li><a href="/shop/collections/banking-exams"> Banking Exams </a></li>
+                        <li><a href="/shop/collections/defence-exams"> Defence Exams </a></li>
+                        <li><a href="/shop/collections/gate-bsnl"> GATE &amp; BSNL </a></li>
+                        <li><a href="/shop/collections/gk-gs-books"> GK &amp; GS Books </a></li>
+                        <li><a href="/shop/collections/ias-state-psc"> IAS &amp; State PSC </a></li>
+                        <li><a href="/shop/collections/iit-jam"> IIT JAM </a></li>
+                        <li><a href="/shop/collections/language-learning-books"> Language Learning Books </a></li>
+                        <li><a href="/shop/collections/law-entrances"> Law Entrances </a></li>
+                        <li><a href="/shop/collections/management-entrances"> Management Entrances </a></li>
+                        <li><a href="/shop/collections/nta-net-slet"> NTA NET / SLET </a></li>
+                        <li><a href="/shop/collections/railways"> Railways </a></li>
+                        <li><a href="/shop/collections/reasoning-aptitude"> Reasoning &amp; Aptitude </a></li>
+                        <li><a href="/shop/collections/school-admissions"> School Admissions </a></li>
+                        <li><a href="/shop/collections/self-help-personality-development"> Self Help &amp; Personality Development </a></li>
+                        <li><a href="/shop/collections/staff-selection-commision"> Staff Selection Commision </a></li>
+                        <li><a href="/shop/collections/teaching-exams"> Teaching Exams </a></li>
+                        <li><a href="/shop/collections/university-entrances"> University Entrances </a></li>
+        </ul>
+        <ul class="megamenu-list megamenu-list megamenu-col-2 megamenu-col">
+                    <li>
+                        <h3>
+                            <a href="/shop/collections/iti-polytechnic" style="padding-left:0px !important;color: #636363;">ITI &amp; Polytechnic</a>
+                        </h3>
+                    </li>
+                        <li><a href="/shop/collections/iti"> ITI </a></li>
+                        <li><a href="/shop/collections/polytechnic-books"> Polytechnic Books </a></li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <ul class="megamenu-list megamenu-list megamenu-col-1 megamenu-col">
+                    <li>
+                        <h3>
+                            <a href="/shop/collections/engineering-entrances" style="padding-left:0px !important;color: #636363;">Engineering Entrances</a>
+                        </h3>
+                    </li>
+                        <li><a href="/shop/collections/jee-main-advanced"> JEE Main &amp; Advanced </a></li>
+                        <li><a href="/shop/collections/jee-master-the-ncert"> Master the NCERT </a></li>
+                        <li><a href="/shop/collections/other-engineering-entrances"> Other Engineering Entrances </a></li>
+        </ul>
+        <ul class="megamenu-list megamenu-list megamenu-col-2 megamenu-col">
+                    <li>
+                        <h3>
+                            <a href="/shop/collections/medical-entrances" style="padding-left:0px !important;color: #636363;">Medical Entrances</a>
+                        </h3>
+                    </li>
+                        <li><a href="/shop/collections/master-the-ncert-2"> Master the NCERT </a></li>
+                        <li><a href="/shop/collections/neet"> NEET </a></li>
+                        <li><a href="/shop/collections/nursing-pharmacy"> Nursing &amp; Pharmacy </a></li>
+                        <li><a href="/shop/collections/other-medical-exam"> Other medical exam </a></li>
+                        <li><a href="/shop/collections/pre-veterinary"> Pre Veterinary </a></li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <ul class="megamenu-list megamenu-list megamenu-col-1 megamenu-col">
+                    <li>
+                        <h3>
+                            <a href="/shop/collections/government-recruitments" style="padding-left:0px !important;color: #636363;">Government Recruitments</a>
+                        </h3>
+                    </li>
+                        <li><a href="/shop/collections/national-level"> National Level </a></li>
+                        <li><a href="/shop/collections/state-level"> State Level </a></li>
+        </ul>
+        <ul class="megamenu-list megamenu-list megamenu-col-2 megamenu-col">
+                    <li>
+                        <h3>
+                            <a href="/shop/collections/school-curriculum" style="padding-left:0px !important;color: #636363;">School Curriculum</a>
+                        </h3>
+                    </li>
+                        <li><a href="/shop/collections/cbse"> CBSE </a></li>
+                        <li><a href="/shop/collections/dictionary-glossary"> Dictionary &amp; Glossary </a></li>
+                        <li><a href="/shop/collections/gate-handbooks"> Handbooks </a></li>
+                        <li><a href="/shop/collections/icse"> ICSE </a></li>
+                        <li><a href="/shop/collections/isc"> ISC </a></li>
+                        <li><a href="/shop/collections/ncert"> NCERT </a></li>
+                        <li><a href="/shop/collections/olympiads"> Olympiads </a></li>
+                        <li><a href="/shop/collections/state-board"> State Board </a></li>
+                        <li><a href="/shop/collections/bloom-school-olympiad"> Bloom School Olympiad </a></li>
+        </ul>
+    </div>
+
+                                                    <div class="clearfix"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <a href="/home/commingsoon">Magazines</a>
+                                        
+                                    </li>
+
+
+                                    <li>
+                                        <a href="https://www.youtube.com/user/arihantpublications?sub_confirmation=1">Videos</a>
+
+                                    </li>
+                                    <li>
+                                        <a href="/blog">Blog</a>
+
+                                    </li>
+                                    <li class="mobile-slider">
+                                        <a href="/Home/Cart">Cart</a>
+                                    </li>
+                                        <li class="mobile-slider">
+                                            <a href="javascript:show_login_model()" data-toggle="modal" data-target="#login-arihant-popup">Login</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                    <div class="overlay-menu-close"></div>
+                    <div class="clearfix"></div>
+                </div>
+
+                <div class="right-section col-lg-4">
+                    <div class="login-bar">
+                        <a class="cart-btn" href="/Home/Cart">Cart (<span id="PRODUCTCOUNT"></span>)</a>
+                            <a class="login-btn" href="javascript:void(0)" data-toggle="modal" data-target="#login-arihant-popup">Login</a>
+                    </div>
+                    
+                    <div class="none-add-class-responsive">
+                        <a class="search-btn-click" href="javascript:void(0)">
+                            <img src="/assets/images/search-icon.png" alt="" title="">
+                        </a>
+                    </div>
+                    <div class="clearfix"></div>
+                    <!--row end-->
+                    <div class="row search-item-rows">
+                        <div class="this-div-use-box-search">
+                            <div class="search-view-bar-arihant">
+                                <div id="search_form_1" class="form-search-box-arihant">
+                                    <div class="wrapper-form-header-search-input">
+                                        
+                                        <input class="input-box-search-in-header" id="SeachProduct" type="text" placeholder="Search arihantbooks.com" autocomplete="off">
+                                        <button class="btn-in-open-search-header-search"></button>
+                                    </div>
+                                    <button class="close-all-searchdiv-box" id="SeachProduct" type="button">
+                                        <span class="wrapper-close-btn-search-header-all">
+                                            <span class="close-btn-search-header-one-part"></span>
+                                            <span class="close-btn-search-header-second-part"></span>
+                                        </span>
+                                    </button>
+                                </div>
+                            </div>
+                            <aside class="search-result-arihant">
+                                <section class="search-result-in-wrapper-one">
+                                    <div class="search-result-arihant-one-on">
+                                        <h3 class="search-result-quick-disc">Quick Links</h3>
+                                        <div id="resultsearch_1">
+                                            <ul class="arihant-all-list-view-serach-result">
+    <li><a href="/shop/collections/engineering-entrances">Engineering Entrances</a></li>
+    <li><a href="/shop/collections/medical-entrances">Medical Entrances</a></li>
+    <li><a href="/shop/collections/school-curriculum">School Curriculum</a></li>
+    <li><a href="/shop/collections/competitive-exams">Competitive Exams</a></li>
+    <li><a href="/shop/collections/government-recruitments">Government Recruitments</a></li>
+    <li><a href="/shop/collections/iti-polytechnic">ITI &amp; Polytechnic</a></li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </section>
+                            </aside>
+                        </div>
+                    </div><!--row end-->
+                </div>
+            </div>
+            <div class="design-wrp-menu-arihantbooks-my-account"></div>
+        </header>
+        <div class="overlay-wrp-s"></div>
+        
+<style>
+    section.new-category-page.category-main-wrp {
+        display: block;
+    }
+
+    .category-main-wrp {
+        display: none;
+    }
+
+    .owl-next.disabled, .owl-prev.disabled {
+        display: none !important;
+    }
+
+    .price-s.related-product-price {
+        max-width: 100% !important;
+    }
+
+        .price-s.related-product-price span.ruppes.r-sm {
+            color: #212529 !important;
+            font-size: 15px !important;
+        }
+
+        .price-s.related-product-price span.ruppes.r-md {
+            color: #212529 !important;
+            font-size: 16px !important;
+        }
+
+        .price-s.related-product-price span.offer-s {
+            color: #212529 !important;
+            font-size: 10px !important;
+        }
+</style>
+<link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+
+<section class="new-category-page category-main-wrp pro-detail-page">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 product-right-side">
+                    <div class="breadcrumb2">
+
+                        <ul>
+                            <li><a href="/">Home</a> ></li>
+                                    <li><a href="/shop/collections/engineering-entrances">Engineering Entrances</a> ></li>
+                                                <li class="after-none-this-items"><a href="/shop/collections/jee-main-advanced">JEE Main &amp; Advanced</a> ></li>
+                                                            <li class="after-none-this-items"><a href="/shop/collections/study-guides">Study Guides</a> ></li>
+                                                                        <li class="after-none-this-items"><a href="/shop/collections/master-resource-books">Master Resource Books</a> ></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="row detail-mainn-div">
+
+                    <!-- card left -->
+                    <div class="product-imgs col-lg-5">
+                        <div class="img-select">
+                            <div class="img-item">
+                                <a href="#" data-id="1">
+                                    <img src="https://cdn.arihantbooks.com/assets/ProductImage/9789358893236.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                </a>
+                            </div>
+                                            <div class="img-item">
+                                                <a href="#" data-id="2">
+                                                    <img src="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135748.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                                </a>
+                                            </div>
+                                            <div class="img-item">
+                                                <a href="#" data-id="3">
+                                                    <img src="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135754.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                                </a>
+                                            </div>
+                                            <div class="img-item">
+                                                <a href="#" data-id="4">
+                                                    <img src="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135800.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                                </a>
+                                            </div>
+                        </div>
+                        <div class="img-display">
+                            <div class="img-showcase">
+                                <img id="zoom_10" src="https://cdn.arihantbooks.com/assets/ProductImage/9789358893236.jpg" data-zoom-image="https://cdn.arihantbooks.com/assets/ProductImage/9789358893236.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                            <img id="zoom_10" src="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135748.jpg" data-zoom-image="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135748.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                            <img id="zoom_10" src="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135754.jpg" data-zoom-image="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135754.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+                                            <img id="zoom_10" src="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135800.jpg" data-zoom-image="https://cdn.arihantbooks.com/assets/ProductImage/Prod_1640_26062023135800.jpg" alt="Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)">
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- card right -->
+                    <div class="col-lg-7">
+                        <div class="product-disc-details-in-arihant">
+                            <h1 class="arihant-product-name">Master Resource Book for JEE Main 2024 - Physics, Chemistry, Mathematics (Set of 3 Books)</h1>
+
+                            <div class="product-arihant-under-details">
+                                <div class="btn-detailbook">
+                                    <a href="#">Paperback</a>
+                                    
+                                </div>
+                                <div class="product-under-details-of-book-row">
+                                    <div class="details-book-about-cart-shopping-pg">
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">ISBN</span>
+                                                <span class="second-details-cart-page-arihant">:</span>9789358893236
+                                                <div class="clearfix"></div>
+                                            </div>
+                                                                                                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Binding</span>
+                                                <span class="second-details-cart-page-arihant">:</span>Paperback
+                                                <div class="clearfix"></div>
+                                            </div>
+                                                                                    <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">MRP</span>
+                                                <span class="second-details-cart-page-arihant">:</span>
+                                                &#8377; 2895
+                                                <div class="clearfix"></div>
+                                            </div>
+                                        
+                                    </div>
+
+                                    <div class="manage-postion-in-bottom-like-fixed">
+                                        <div class="productprice">
+                                            <div class="productpageprice">
+                                                <div class="product-price-in-short-rate">
+                                                    <h3 class="price-book-arihant-product">
+                                                        <span class="rupees-icon2"><img src="/assets/images/rupee-icon2.svg" /></span> 2026
+                                                    </h3>
+                                                    <!--<span class="productpageoldprice"></span>-->
+                                                        <span class="offert-in-off-product-sale">
+                                                            30 % off
+                                                        </span>
+                                                </div>
+
+                                                <div class="shop-add">
+                                                        <a href="javascript:void(0)">Out Of Stock</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><!--===== Product Details Wrp=====-->
+                        </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+
+                    <div class="col-lg-12 new-taps">
+                        <div class="nav-tabs-acordings-arihant">
+                            <ul class="nav" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" data-toggle="tab" href="#overview-arihant"><span>Overview</span></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="tab" href="#features-arihant"><span>Specifications</span></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="tab" href="#table-contents-arihant"><span>Table of Contents</span></a>
+                                </li>
+                            </ul>
+
+                            <!-- Tab panes -->
+                            <div class="tab-content">
+                                <div id="overview-arihant" class="tab-pane fade active show">
+                                    This boxset contains the following titles:
+<ol>
+	<li>Master Resource Book in Physics for JEE Main 2024</li>
+	<li>Master Resource Book in Chemistry for JEE Main 2024</li>
+	<li>Master Resource Book in Mathematics for JEE Main 2024</li>
+</ol>
+Get your hands on the updated &amp; revised edition of &ldquo;<strong>Master Resource Book for JEE Main Series</strong>&rdquo;, which has been prepared in sync with the recent changes in the test pattern and format of JEE Main exam. This book <strong>covers all the topics of Physics with detailed theories, an ample number of solved examples, 2 Level Exercises, and practice problems as per the class 11</strong><strong><sup>th</sup></strong><strong> &amp; 12</strong><strong><sup>th</sup></strong><strong> syllabus</strong>. Besides this, each chapter is equipped with <strong>Previous Years&rsquo; Questions of AIEEE &amp; JEE Main</strong> to analyze the difficulty level and nature of questions asked in the exam. <strong>With more than 5000 MCQs containing diverse typologies of questions</strong>, this is the only book that helps aspirants to prepare in a systematic manner with the paramount importance of problem-solving.&nbsp;
+                                </div>
+                                <div id="features-arihant" class="tab-pane fade">
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Author</span>
+                                                <span class="second-details-cart-page-arihant">:</span>DB Singh,Sanjay Sharma,Prafull K Agarwal
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">ISBN-13</span>
+                                                <span class="second-details-cart-page-arihant">:</span>9789358893236
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">ISBN-10</span>
+                                                <span class="second-details-cart-page-arihant">:</span>9358893230
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Source Code</span>
+                                                <span class="second-details-cart-page-arihant">:</span>CJ003
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Language</span>
+                                                <span class="second-details-cart-page-arihant">:</span>English
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Binding</span>
+                                                <span class="second-details-cart-page-arihant">:</span>Paperback
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">No of Pages</span>
+                                                <span class="second-details-cart-page-arihant">:</span>3068
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Item Weight</span>
+                                                <span class="second-details-cart-page-arihant">:</span>5.285 Kg
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="wrp-details-about-shopping-cart-pg">
+                                                <span class="first-table-cart-page-arihant">Dimensions</span>
+                                                <span class="second-details-cart-page-arihant">:</span>20.3 x 25.4 x 4.7 cm
+                                                <div class="clearfix"></div>
+                                            </div>
+                                        <div class="wrp-details-about-shopping-cart-pg">
+                                            <span class="first-table-cart-page-arihant">Country of Origin</span>
+                                            <span class="second-details-cart-page-arihant">:</span>
+                                            India
+                                        </div>
+                                        <div class="wrp-details-about-shopping-cart-pg">
+                                            <span class="first-table-cart-page-arihant">Manufacturer </span>
+                                            <span class="second-details-cart-page-arihant">:</span>
+                                            Arihant Publications India Limited, 24-26, Kalindi Colony, Transport Nagar, Meerut, Uttar Pradesh - 250002
+                                        </div>
+                                        <div class="wrp-details-about-shopping-cart-pg">
+                                            <span class="first-table-cart-page-arihant">Seller </span>
+                                            <span class="second-details-cart-page-arihant">:</span>
+                                            Arihant Publications India Limited, 24-26, Kalindi Colony, Transport Nagar, Meerut, Uttar Pradesh - 250002
+                                        </div>
+
+                                </div>
+                                <div id="table-contents-arihant" class=" tab-pane fade">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+                                                <div class="related-product">
+                                                    <div class="container-fluid">
+                                                        <div class="row">
+                                                            <div class="col-md-12">
+                                                                <div class="inner-hd">
+                                                                    <h2>Related Books</h2>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="home-demo">
+                                                            <div class="owl-carousel owl-theme">
+                                                                    <div class="item">
+                                                                        <div class="r-products">
+                                                                            <div class="r-pro-img">
+                                                                                <a href="/shop/products/master-resource-book-for-jee-main-chemistry"><img src="https://cdn.arihantbooks.com/assets/ProductImage/9789358891782.jpg" alt="Master Resource Book for JEE Main Chemistry" /></a>
+                                                                            </div>
+                                                                            <div class="r-pro-content">
+                                                                                <p>
+                                                                                        <a href="/shop/products/master-resource-book-for-jee-main-chemistry">
+                                                                                            Master Resource Book for JEE Main Chemistry
+                                                                                        </a>
+                                                                                </p>
+                                                                                
+                                                                                <div class="price-s related-product-price">
+                                                                                    <span class="main-price"><span class="ruppes r-sm">&#8377; 965</span></span>
+                                                                                    <span class="offer-price"><span class="offer-s">Offer Price</span> <span class="main-offer-price"><span class="ruppes r-md"> &#8377; 772</span> </span></span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <div class="r-products">
+                                                                            <div class="r-pro-img">
+                                                                                <a href="/shop/products/master-resource-book-for-jee-main-mathematics"><img src="https://cdn.arihantbooks.com/assets/ProductImage/9789358891768.jpg" alt="Master Resource Book for JEE Main Mathematics" /></a>
+                                                                            </div>
+                                                                            <div class="r-pro-content">
+                                                                                <p>
+                                                                                        <a href="/shop/products/master-resource-book-for-jee-main-mathematics">
+                                                                                            Master Resource Book for JEE Main Mathematics
+                                                                                        </a>
+                                                                                </p>
+                                                                                
+                                                                                <div class="price-s related-product-price">
+                                                                                    <span class="main-price"><span class="ruppes r-sm">&#8377; 965</span></span>
+                                                                                    <span class="offer-price"><span class="offer-s">Offer Price</span> <span class="main-offer-price"><span class="ruppes r-md"> &#8377; 772</span> </span></span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <div class="r-products">
+                                                                            <div class="r-pro-img">
+                                                                                <a href="/shop/products/master-resource-book-for-jee-main-physics"><img src="https://cdn.arihantbooks.com/assets/ProductImage/9789358891720.jpg" alt="Master Resource Book for JEE Main Physics" /></a>
+                                                                            </div>
+                                                                            <div class="r-pro-content">
+                                                                                <p>
+                                                                                        <a href="/shop/products/master-resource-book-for-jee-main-physics">
+                                                                                            Master Resource Book for JEE Main Physics
+                                                                                        </a>
+                                                                                </p>
+                                                                                
+                                                                                <div class="price-s related-product-price">
+                                                                                    <span class="main-price"><span class="ruppes r-sm">&#8377; 965</span></span>
+                                                                                    <span class="offer-price"><span class="offer-s">Offer Price</span> <span class="main-offer-price"><span class="ruppes r-md"> &#8377; 772</span> </span></span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <div class="r-products">
+                                                                            <div class="r-pro-img">
+                                                                                <a href="/shop/products/sampurna-study-package-jee-main-bhautiki"><img src="https://cdn.arihantbooks.com/assets/ProductImage/9789358891584.jpg" alt="Sampurna Study Package -  JEE Main BHAUTIKI " /></a>
+                                                                            </div>
+                                                                            <div class="r-pro-content">
+                                                                                <p>
+                                                                                        <a href="/shop/products/sampurna-study-package-jee-main-bhautiki">
+                                                                                            Sampurna Study Package -  JEE Main Bhautiki
+                                                                                        </a>
+                                                                                </p>
+                                                                                
+                                                                                <div class="price-s related-product-price">
+                                                                                    <span class="main-price"><span class="ruppes r-sm">&#8377; 1050</span></span>
+                                                                                    <span class="offer-price"><span class="offer-s">Offer Price</span> <span class="main-offer-price"><span class="ruppes r-md"> &#8377; 840</span> </span></span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <div class="r-products">
+                                                                            <div class="r-pro-img">
+                                                                                <a href="/shop/products/sampurna-study-package-jee-main-ganit"><img src="https://cdn.arihantbooks.com/assets/ProductImage/9789358891669.jpg" alt="Sampurna Study Package -  JEE Main GANIT " /></a>
+                                                                            </div>
+                                                                            <div class="r-pro-content">
+                                                                                <p>
+                                                                                        <a href="/shop/products/sampurna-study-package-jee-main-ganit">
+                                                                                            Sampurna Study Package -  JEE Main Ganit
+                                                                                        </a>
+                                                                                </p>
+                                                                                
+                                                                                <div class="price-s related-product-price">
+                                                                                    <span class="main-price"><span class="ruppes r-sm">&#8377; 1050</span></span>
+                                                                                    <span class="offer-price"><span class="offer-s">Offer Price</span> <span class="main-offer-price"><span class="ruppes r-md"> &#8377; 840</span> </span></span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+</section>
+
+<script type="text/javascript" src='/assets/js/owl.carousel.min.js'></script>
+
+<script type="text/javascript">
+    function AddCardItemCount() {
+        var cartItems = [];
+        cartItems = JSON.parse(localStorage.getItem("userCarts"));
+        if (cartItems != null) {
+            $("#PRODUCTCOUNT").text(cartItems.length);
+        }
+    };
+
+    function addToCart(productId) {
+        $.ajax({
+            type: 'GET',
+            url: '/Home/CartJsonRecord?productId=' + productId,
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            async: false,
+            success: function (response) {
+                var cartItems = [];
+                cartItems = JSON.parse(localStorage.getItem("userCarts"));
+                if (cartItems != null) {
+                    var isDuplicateItem = cartItems.filter(x => x.ProductTypeID == productId);
+                    if (isDuplicateItem.length > 0)
+                        toastr.error("", "Product is alread Exist...!");
+                    else {
+                        cartItems.push(response);
+                        localStorage.setItem("userCarts", JSON.stringify(cartItems));
+                        toastr.success("", "Product added successfully !");
+                    }
+                }
+                else {
+                    var result = [];
+                    result.push(response);
+                    localStorage.setItem("userCarts", JSON.stringify(result));
+                    toastr.success("", "Product added successfully !");
+                }
+                cartItems = JSON.parse(localStorage.getItem("userCarts"));
+                if (cartItems != null)
+                    $("#PRODUCTCOUNT").text(cartItems.length);
+                else
+                    $("#PRODUCTCOUNT").text(0);
+            }
+        });
+        AddCardItemCount();
+    }
+
+    function BuyToCart(productId) {
+        $.ajax({
+            type: 'GET',
+            url: '/Home/CartJsonRecord?productId=' + productId,
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            async: false,
+            success: function (response) {
+                var cartItems = [];
+                cartItems = JSON.parse(localStorage.getItem("userCarts"));
+                if (cartItems != null) {
+                    var isDuplicateItem = cartItems.filter(x => x.ProductTypeID == productId);
+                    if (isDuplicateItem.length > 0)
+                        window.location.href = "/Home/Cart";
+                    else {
+                        cartItems.push(response);
+                        localStorage.setItem("userCarts", JSON.stringify(cartItems));
+                        window.location.href = "/Home/Cart";
+                        toastr.success("", "Product added successfully !");
+                    }
+                }
+                else {
+                    var result = [];
+                    result.push(response);
+                    localStorage.setItem("userCarts", JSON.stringify(result));
+                    window.location.href = "/Home/Cart";
+                    toastr.success("", "Product added successfully !");
+                }
+            }
+        });
+        AddCardItemCount();
+    }
+
+    function Addwishcart(ProductTypeID) {
+        $.ajax({
+            type: 'Post',
+            url: '/Card/WishOrderHistory?ProductTypeID=' + ProductTypeID,
+            contentType: 'application/json;charset=utf-8',
+            datatype: 'json',
+            async: false,
+            success: function (response) {
+
+            }
+        });
+    }
+</script>
+
+<script>
+    const imgs = document.querySelectorAll('.img-select a');
+    const imgBtns = [...imgs];
+    let imgId = 1;
+
+    imgBtns.forEach((imgItem) => {
+        imgItem.addEventListener('click', (event) => {
+            event.preventDefault();
+            imgId = imgItem.dataset.id;
+            slideImage();
+        });
+    });
+
+    function slideImage() {
+        const displayWidth = document.querySelector('.img-showcase img:first-child').clientWidth;
+
+        document.querySelector('.img-showcase').style.transform = `translateX(${-(imgId - 1) * displayWidth}px)`;
+    }
+
+    window.addEventListener('resize', slideImage);
+</script>
+
+<script>
+    $('#zoom_01').elevateZoom({
+        zoomType: "inner",
+        cursor: "crosshair",
+        zoomWindowFadeIn: 500,
+        zoomWindowFadeOut: 750
+    });
+
+    $("#zoom_02").elevateZoom({ tint: true, tintColour: '#F90', tintOpacity: 0.5 });
+
+    $("#zoom_07").elevateZoom({
+        zoomType: "lens",
+        lensShape: "round",
+        lensSize: 200
+    });
+
+    $("#zoom_10").elevateZoom({ easing: true });
+
+    //initiate the plugin and pass the id of the div containing gallery images
+    $("#zoom_03").elevateZoom({ constrainType: "height", constrainSize: 274, zoomType: "lens", containLensZoom: true, gallery: 'gallery_01', cursor: 'pointer', galleryActiveClass: "active" });
+
+</script>
+<script>
+    $(function () {
+        // Owl Carousel
+        var owl = $(".owl-carousel.owl-theme");
+        owl.owlCarousel({
+            margin: 20,
+            loop: false,
+            nav: true,
+            responsive: {
+                0: {
+                    items: 2
+                },
+
+                600: {
+                    items: 3
+                },
+
+                1024: {
+                    items: 4
+                },
+
+                1366: {
+                    items: 5
+                }
+            }
+        });
+    });
+
+</script>
+<style>
+    .owl-carousel .owl-nav.disabled {
+        display: block !important;
+    }
+</style>
+
+
+
+        <footer class="footer new-footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="widget-ftr">
+                                    <h3>Company</h3>
+                                    <ul>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="/Home/AboutUs">About Us</a></li>
+                                        <li><a href="/Home/Career">Career</a></li>
+                                        <li><a href="/Home/PublishWithUs">Publish with Us</a></li>
+                                        <li><a href="/Home/Catalogue">Product Catalogue</a></li>
+                                        <li><a href="/Home/FAQ">FAQs</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="widget-ftr">
+                                    <ul class="top-m">
+                                        <li><a href="/blog">Blog</a></li>
+                                        <li><a href="/Home/TermAndCondition">Terms & Conditions</a></li>
+                                        <li><a href="/Home/PrivacyPolicy">Privacy Policy</a></li>
+                                        <li><a href="/Home/ContactUs">Contact Us</a></li>
+                                        <li><a href="/assets/BannerImage/exam-calendar.pdf" target="_blank">Exam Calendar</a></li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="widget-ftr">
+                                    <h3>Products</h3>
+                                    <ul>
+                                        <li><a href="/Home/Programs">Books</a></li>
+                                        
+                                        <li><a href="/home/MagazinePrograms">Magazines</a></li>
+                                        <li><a target="_blank" href="https://www.youtube.com/user/arihantpublications?sub_confirmation=1">Videos</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="widget-ftr">
+                                    <h3>Top Categories</h3>
+                                    <ul>
+    <li><a href="/shop/collections/engineering-entrances">Engineering Entrances</a></li>
+    <li><a href="/shop/collections/medical-entrances">Medical Entrances</a></li>
+    <li><a href="/shop/collections/school-curriculum">School Curriculum</a></li>
+    <li><a href="/shop/collections/competitive-exams">Competitive Exams</a></li>
+    <li><a href="/shop/collections/government-recruitments">Government Recruitments</a></li>
+    <li><a href="/shop/collections/iti-polytechnic">ITI &amp; Polytechnic</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="widget-ftr">
+                                    <h3>Connect</h3>
+                                    <ul class="mobile-ftr">
+                                        <li><a href="tel:011-40546380">+91-11-40546380</a></li>
+                                        <li><a href="mailto:crm@arihantbooks.com">crm@arihantbooks.com</a></li>
+                                    </ul>
+                                    <ul class="social-media">
+                                        <li><a target="_blank" href="https://www.facebook.com/arihantpub"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a target="_blank" href="https://www.instagram.com/arihantpub/"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a target="_blank" href="https://www.youtube.com/user/arihantpublications?sub_confirmation=1"><i class="fa fa-youtube"></i></a></li>
+                                        <li><a target="_blank" href="https://www.linkedin.com/company/arihantpublications"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a target="_blank" href="https://t.me/arihantpub"><i class="fa fa-telegram"></i></a></li>
+                                        <li><a target="_blank" href="https://twitter.com/arihantpub"><i class="fa fa-twitter"></i></a></li>
+                                    </ul>
+									<ul class="social-media">
+                                        <li style="width: 75% !important;background: #30303a !important;"><a target="_blank" href="https://www.youtube.com/@examwith_Arihant?sub_confirmation=1" style="width: 100% !important;background: #30303a !important;"><img src="/assets/images/EWA-Logo.svg" /></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 copyright">
+                        <p>&copy; 2019-24. Arihant Publications India Limited</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!--===================Login Popup===========================-->
+
+    <div class="modal fade" id="login-arihant-popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" style="display: none; z-index:99999 !important">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="login-modal-body">
+                        <div class="title-header-login-popup-arihant">
+                            <h4>Login to <span>arihant</span>books.com </h4>
+                            <button type="button" class="close close-login-popup-arihant" data-dismiss="modal" aria-label="Close">
+                                <img src="/assets/images/close.svg" />
+                            </button>
+                        </div>
+                        <div class="login-other-api-wrp">
+                            <div class="digital-serv-login-btn">
+                                <button class="facebook-btn-login-arihant" id="FacebookLogin" onclick="LoginFacebookClick()">
+                                    <i class="fa fa-facebook"></i>
+                                    <span>Login with Facebook</span>
+                                </button>
+                            </div>
+                            <div class="digital-serv-login-btn">
+                                <button class="google-btn-login-arihant" id="GoogleLogin" onclick="login()">
+                                    <i><img src="/assets/images/google-icon.png" alt="" title="" /></i>
+                                    <span>Login with Google</span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="login-other-ways" style="display:none !important">
+                            <span class="login-with-other-ways-text">or login with email or mobile</span>
+                        </div>
+<form action="/Account/Login" class="form-horizontal" id="formLogin" method="post"><input name="__RequestVerificationToken" type="hidden" value="V75cuP3f6JwjJlxh2v8e6v_ZKAWgpHIwUhymeonv1AEKKFxQvM5MaznPocggyoPVxxBJdUmvBQ2tK3RAnG78fSjOEt6iwaULHgAsabdM1-w1" />                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-user"></i>
+                                <input type="email" placeholder="Email" id="Email" name="Email" class="input-box-bottom-border" />
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-user"></i>
+                                <input type="password" placeholder="Password" id="Password" name="Password" class="input-box-bottom-border" />
+                                <i class="fa fa-eye" id="togglePassword" style="right: 0;left: inherit;"></i>
+                            </div>
+<input id="returnUrl" name="returnUrl" type="hidden" value="" />                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <input type="submit" value="Login" class="input-box-bottom-border" />
+                            </div>
+</form>                        <div class="signup-in-login-popup-wrp-text">
+                            <span>Need an account ?</span>
+                            <a href="javascript:void(0)" class="signup-btn-in-arihant-login-popup">Sign up</a>
+                        </div>
+                    </div>
+                    <!--====================login Body Close====================-->
+<form action="/Account/Register" class="form-horizontal" id="Registerform" method="post"><input name="__RequestVerificationToken" type="hidden" value="9JpAclaOWP1U_WXkLLV0d3vKVt7st94Pw4ufs6UqzNnT9JMYV3HsVLAE0cOvaPPSRir2OyzI9CyTadxmmk4HU48ZiL9eApnw6kqRZwlmXjE1" />                        <div class="signup-body-modal">
+                            <div class="title-header-login-popup-arihant">
+                                <h4>Create your free account</h4>
+                                <button type="button" class="close close-login-popup-arihant" data-dismiss="modal" aria-label="Close">
+                                    <img src="/assets/images/close.svg" />
+                                </button>
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-user"></i>
+                                <input type="email" placeholder="Email" name="Email" id="Email" class="input-box-bottom-border" />
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-user"></i>
+                                <input type="password" placeholder="Password" name="Password" id="Password" class="input-box-bottom-border" />
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-user"></i>
+                                <input type="Password" placeholder="Confirm Password" name="ConfirmPassword" id="ConfirmPassword" class="input-box-bottom-border" />
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <input type="submit" value="SignUp" class="input-box-bottom-border" />
+                            </div>
+                            <div class="forgot-single-login-option-wrp">
+                                <a href="javascript:void(0)">Forgot Password ?</a>
+                            </div>
+                        </div>
+</form>                    <!--====================Signup Body Close====================-->
+
+<form action="/Account/ForgotPassword" class="form-horizontal" id="ForgotPassword" method="post" role="ForgotPassword"><input name="__RequestVerificationToken" type="hidden" value="blELlrsHfl-YvD2Aoy3BKJ7CaAVCU9nvC8nmSUcF4iMlp0o37uOAwn40lee-VBhrIx2dKbNw611Uhnsdu477NC2OM3S-5T61lSAl5CLFaLA1" />                        <div class="forgot-password-body-modal">
+                            <div class="title-header-login-popup-arihant">
+                                <h4 class="forgot-password-title">Forgot Password ?</h4>
+                                <p class="sub-title-forgot-pera">
+                                    Enter the email address or mobile phone number<br />
+                                    associated with your account.
+                                </p>
+                                <button type="button" class="close close-login-popup-arihant" data-dismiss="modal" aria-label="Close">
+                                    <img src="/assets/images/close.svg" />
+                                </button>
+                            </div>
+                            <form method="POST" action="">
+                                <div class="box-wrp-login-arihant-user">
+                                    <div class="forgot-wrp-box-row">
+                                        <div class="wrp-box-manage-inpit-forgot">
+                                            <input type="email" name="Email" id="Email" class="forgot-input-box" placeholder="Email" />
+                                        </div>
+                                    </div>
+                                    <div class="login-btn-wrp-arihant-popup">
+                                        <button class="login-btn-arihant mrgn-top-forgot-btn-sss" type="submit">Continue</button>
+                                    </div>
+                                    <div class="signup-in-login-popup-wrp-text forgot-pera-bottom">
+                                        <span>If you no longer use the e-mail address associated with your account, you may contact <a href="javascript:void(0)" class="btn-customer-care">Customer Service</a> for help restoring access to your account.</span>
+                                    </div>
+                                    <div class="manage-login-button-in-forgot-pattern" type="display:none;">
+                                        <a href="javascript:void(0)">
+                                            Login
+                                        </a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+</form>                </div>
+                
+                
+                
+
+                
+            </div>
+        </div>
+    </div>
+
+    <!--====================Login Popup Close====================-->
+    <!--=======================Subscribe Popup========================================-->
+    <div class="modal fade" id="subscribe-arihant-popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="login-modal-body">
+                        <div class="title-header-login-popup-arihant">
+                            <h4>Subscribe <span>arihant</span>books.com </h4>
+                            <button type="button" class="close close-login-popup-arihant" data-dismiss="modal" aria-label="Close">
+                                <img src="/assets/images/close.svg" />
+                            </button>
+                        </div>
+<form action="/Home/SubscribeNow" class="form-horizontal" id="fmSubscribeNowIndex" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="A_O9pdnFJ1su2gCi9FqzAn541KfZfSeLI1ecYY9xFc_A33tZp_g4gh58xcKh8QLlrEckqWs4IifREeHVgRliaP1CrloABROiSFeHRE4FCVQ1" />                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-user"></i>
+                                <input type="text" placeholder="Enter your name" id="Name" autocomplete="off" name="Name" required maxlength="100" class="input-box-bottom-border" />
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <i class="fa fa-envelope"></i>
+                                <input type="email" placeholder="Enter your email id" id="Email" autocomplete="off" name="Email" required maxlength="100" class="input-box-bottom-border" />
+                            </div>
+                            <div class="box-wrp-single-row-login-arihant username-wrp-box-input-login-arihant">
+                                <input value="Subscribe" class="input-box-bottom-border" type="submit" />
+                            </div>
+</form>                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!--=====================Subscribe Popup Close===========================================-->
+    <script type="text/javascript" src='/assets/js/jquery-ui.min.js'></script>
+    <script type="text/javascript" src='/assets/js/waypoints.min.js'></script>
+    <script type="text/javascript" src='/assets/js/jquery.counterup.min.js'></script>
+    <script type="text/javascript" src="/assets/js/custom.js"></script>
+    <script type="text/javascript" src="/assets/js/wow.min.js"></script>
+    <script src="/assets/toast/toastr.min.js"></script>
+    <script type="text/javascript">
+        new WOW().init();
+    </script>
+    <!--====================Login Popup Close====================-->
+    
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script type="text/javascript">
+        var OAUTHURL = 'https://accounts.google.com/o/oauth2/auth?';
+        var VALIDURL = 'https://www.googleapis.com/oauth2/v1/tokeninfo?access_token=';
+        var SCOPE = 'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email';
+        var CLIENTID = '76624044022-3etdkkonpu1it77mp7s8h2fu06qkviap.apps.googleusercontent.com';
+        var REDIRECT = 'https://arihantbooks.com/Home/Index';
+        var TYPE = 'token';
+        var _url = OAUTHURL + 'scope=' + SCOPE + '&client_id=' + CLIENTID + '&redirect_uri=' + REDIRECT + '&response_type=' + TYPE + '&state=%2Fprofile&something=something';
+        var acToken;
+        var tokenType;
+        var expiresIn;
+        var user;
+        var loggedIn = false;
+
+        function login() {
+            var win = window.open(_url, "windowname1", 'width=800, height=600');
+            var pollTimer = window.setInterval(function () {
+                try {
+                    console.log(win.document.URL);
+                    if (win.document.URL.indexOf(REDIRECT) != -1) {
+                        window.clearInterval(pollTimer);
+                        var url = win.document.URL;
+                        acToken = gup(url, 'access_token');
+                        tokenType = gup(url, 'token_type');
+                        expiresIn = gup(url, 'expires_in');
+                        win.close();
+                        validateToken(acToken);
+                    }
+                }
+                catch (e) { }
+            }, 500);
+        }
+
+        function gup(url, name) {
+            namename = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regexS = "[\\#&]" + name + "=([^&#]*)";
+            var regex = new RegExp(regexS);
+            var results = regex.exec(url);
+            if (results == null)
+                return "";
+            else
+                return results[1];
+        }
+
+        function validateToken(token) {
+            getUserInfo();
+            $.ajax(
+                {
+                    url: VALIDURL + token,
+                    data: null,
+                    success: function (responseText) {
+                    },
+                });
+        }
+
+        function getUserInfo() {
+            $.ajax({
+                url: 'https://www.googleapis.com/oauth2/v1/userinfo?access_token=' + acToken,
+                data: null,
+                success: function (resp) {
+                    user = resp;
+                    console.log(user);
+                    $('#uname').html('Welcome ' + user.given_name);
+                    $('#uemail').html('Email: ' + user.email)
+                    $('#imgHolder').attr('src', user.picture);
+                    $.ajax({
+                        url: '/Account/GoogleLogin',
+                        type: 'POST',
+                        data: {
+                            email: user.email,
+                            name: user.given_name,
+                            //gender: user.gender,
+                            lastname: user.family_name,
+                            location: user.locale
+                        },
+                        success: function (res) {
+                            if (res == false) {
+                                toastr.error("", "Something is wrong, please try later!");
+                                window.location.href = "/";
+                            }
+                            else {
+                                var currenturl = window.location.href;
+                                if (currenturl.indexOf('/Cart') > 0) {
+                                    window.location.reload();
+                                }
+                                else {
+                                    window.location.href = "/";
+                                }
+                            }
+                        },
+                        //dataType: "jsonp"
+                    });
+                },
+            });
+        }
+
+    </script>
+    <!--====================Login Popup Close====================-->
+    <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
+    <script type="text/javascript">
+        window.fbAsyncInit = function () {
+
+            FB.init({
+                appId: '1402643459973046',
+                cookie: true,
+                xfbml: true,
+                version: 'v10.0'
+            });
+            //            FB.AppEvents.logPageView();
+        };
+        //FB.getLoginStatus(function (response) {
+        //    if (response.status === 'connected') {
+        //        //display user data
+        //        btnContinueWithFacebook_Click();
+        //    }
+        //});
+
+        (function (d, s, id) {
+
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        function LoginFacebookClick() {
+            FB.getLoginStatus(function (response) {
+                if (response.status === 'connected') {
+                    //display user data
+                    ContinueWithFacebook();
+                }
+                else {
+                    ContinueWithFacebook();
+                }
+            });
+        }
+        function ContinueWithFacebook() {
+
+            FB.login(function (response) {
+                if (response.authResponse) {
+                    FB.api('/me', { locale: 'en_US', fields: 'id,first_name,last_name,email,link,gender,locale,picture' },
+                            function (response) {
+                                var isemail = ValidateEmail(response.email == undefined ? '' : response.email);
+                                if (isemail) {
+
+                                    $.ajax({
+                                        url: "/Account/GoogleLogin",
+                                        type: "POST",
+                                        data: {
+                                            email: response.email,
+                                            name: (response.first_name == undefined ? '' : response.first_name),
+                                            //gender: user.gender,
+                                            lastname: (response.last_name == undefined ? '' : response.last_name),
+                                            location: response.locale
+                                        },
+                                        //contentType: "application/json; charset=utf-8;",
+                                        dataType: "json",
+                                        success: function (responsed) {
+                                            if (responsed == false) {
+                                                toastr.error("", "Something is wrong, please try later!");
+                                                window.location.href = "/";
+                                            }
+                                            else {
+                                                var currenturl = window.location.href;
+                                                if (currenturl.indexOf('/Cart') > 0) {
+                                                    window.location.reload();
+                                                }
+                                                else {
+                                                    window.location.href = "/";
+                                                }
+                                            }
+                                        }
+                                    });
+                                }
+                            });
+                }
+                else {
+                    location.href = "/";
+                }
+            }, { scope: 'email' });
+        }
+        function ValidateEmail(email) {
+            var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+            return expr.test(email);
+        };
+    </script>
+    
+</body>
+</html>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        //isLoading(false);
+        if (window.performance && window.performance.navigation.type != 2) {
+            var error = '';
+            var success = '';
+
+            if (error && error.length > 0) {
+                toastr.error(error, '', { timeOut: 2000 })
+
+            }
+            else if (success && success.length > 0) {
+                toastr.success(success, '', { timeOut: 5000 })
+
+            }
+        }
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $("input").change(function () {
+            Password: $('#theText').val();
+        });
+    });
+    function SearchProduct() {
+        Password: $('#theText').val();
+        $.ajax({
+            type: 'POST',
+            url: 'LogIn/LogIn',
+            data: { model: Password },
+            success: function (result) {
+                $("#hdnOrigComments").val($('#txtComments').val());
+                $('#lblCommentsNotification').text(savingStatus);
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                $('#lblCommentsNotification').text("Error encountered while saving the comments.");
+            }
+        });
+    };
+</script>
+
+<script>
+    $(document).ready(function () {
+
+        var cartItems = [];
+        cartItems = JSON.parse(localStorage.getItem("userCarts"));
+        if (cartItems != null) {
+            $("#PRODUCTCOUNT").text(cartItems.length);
+        }
+        else {
+            $("#PRODUCTCOUNT").text(0);
+        }
+        $("#formLogin").validate({
+            rules: {
+                Email: {
+                    required: true,
+                },
+                Password: {
+                    required: true,
+                    minlength: 6
+                },
+            },
+        });
+
+        $("#Registerform").validate({
+            rules: {
+                Email: {
+                    required: true,
+                },
+                Password: {
+                    required: true,
+                    minlength: 6
+                },
+                ConfirmPassword: {
+                    required: true,
+                    minlength: 6
+                },
+
+            },
+        });
+
+        $("#ForgotPassword").validate({
+            rules: {
+                email: {
+                    required: true,
+                },
+
+            },
+        });
+
+        $("#fmSubscribeNowIndex").validate({
+            rules: {
+                Name: {
+                    required: true,
+                },
+                Email: {
+                    required: true,
+                },
+            },
+        });
+
+    });
+</script>
+<script>
+    function SubscribeNow() {
+        var model =
+        {
+            Name: $("#fmSubscribeNowIndex #Name").val(),
+            Email: $("#fmSubscribeNowIndex #Email").val(),
+        }
+        if (model.Email != "" && model.Name) {
+            var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (regex.test(model.Email)) {
+                $.ajax({
+                    type: 'Post',
+                    url: '/Home/SubscribeNow',
+                    data: { ObjSubscriberModel: model },
+                    dataType: 'json',
+                    async: false,
+                    success: function (response) {
+                        if (response.Result > 0) {
+                            toastr.success("", "Thanks for the subscription...!!");
+                            $("#fmSubscribeNowIndex #Name").val('');
+                            $("#fmSubscribeNowIndex #Email").val('');
+                            $("#subscribe-arihant-popup .close").click();
+                        }
+                        else {
+                            if (response.Message != "") {
+                                toastr.error("", response.Message);
+                            } else {
+                                toastr.error("", "Please try later!!");
+                            }
+                        }
+                    }
+                });
+            }
+        }
+    }
+    $("#subscribe-arihant-popup .close").click(function () {
+        $("#fmSubscribeNowIndex #Name").val('');
+        $("#fmSubscribeNowIndex #Email").val('');
+        $("#subscribe-arihant-popup .close").click();
+    });
+</script>
+<script>
+    $('#SeachProduct').keypress(function (event) {
+        var aa = event.target.value;
+        var keycode = (event.keyCode ? event.keyCode : event.which);
+        if (keycode == 13) {
+            window.location.href = "/Home/ProductSearchItem?page=0&SearchName=" + aa;
+        }
+    });
+    $('input#SeachProduct').keyup(function (event) {
+        var aa = event.target.value;
+        var keycode = (event.keyCode ? event.keyCode : event.which);
+        if (aa.length > 2) {
+            if (keycode != 13) {
+                $.ajax({
+                    type: 'POST',
+                    url: '/Home/ProductSearchList',
+                    dataType: 'json',
+                    data: { SearchName: aa },
+                    async: true,
+                    success: function (response) {
+                        if (response.length > 0) {
+                            $('#resultsearch_1 > ul.arihant-all-list-view-serach-result').empty();
+                            $(response).each(function (i, v) {
+                                $('#resultsearch_1 > ul.arihant-all-list-view-serach-result').append('<li><a class="prdocutname" href="/shop/products/' + v.URL_ID + '" title="' + v.ProductName + '">' + v.ProductName + '</a></li>');
+                            });
+                        }
+                    }
+                });
+            }
+        }
+    });
+</script>
+
+
+<script type="text/javascript">
+
+    jQuery(document).ready(function () {
+        $(".dropdown").hover(
+            function () {
+                $('.dropdown-menu', this).fadeIn(300);
+            },
+            function () {
+                $('.dropdown-menu', this).fadeOut(300);
+            });
+    });
+
+    jQuery("#carousel").owlCarousel({
+        autoplay: true,
+        lazyLoad: true,
+        loop: true,
+        margin: 20,
+        /*
+       animateOut: 'fadeOut',
+       animateIn: 'fadeIn',
+       */
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 7000,
+        smartSpeed: 800,
+        nav: true,
+        dots: false,
+        responsive: {
+            0: {
+                items: 1
+            },
+
+            600: {
+                items: 3
+            },
+
+            1024: {
+                items: 4
+            },
+
+            1366: {
+                items: 4
+            }
+        }
+    });
+
+
+    jQuery("#carousel2").owlCarousel({
+        autoplay: true,
+        lazyLoad: true,
+        loop: true,
+        margin: 20,
+        /*
+       animateOut: 'fadeOut',
+       animateIn: 'fadeIn',
+       */
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 7000,
+        smartSpeed: 800,
+        nav: true,
+        dots: false,
+        responsive: {
+            0: {
+                items: 1
+            },
+
+            600: {
+                items: 3
+            },
+
+            1024: {
+                items: 4
+            },
+
+            1366: {
+                items: 4
+            }
+        }
+    });
+
+
+
+</script>
+<script>
+    !(function (n, i, e, a) {
+        ; (n.navigation = function (t, s) {
+            var o = {
+                responsive: !0,
+                mobileBreakpoint: 991,
+                showDuration: 200,
+                hideDuration: 200,
+                showDelayDuration: 0,
+                hideDelayDuration: 0,
+                submenuTrigger: "hover",
+                effect: "fadeIn",
+                submenuIndicator: !0,
+                submenuIndicatorTrigger: !1,
+                hideSubWhenGoOut: !0,
+                visibleSubmenusOnMobile: !1,
+                fixed: !1,
+                overlay: !0,
+                overlayColor: "rgba(0, 0, 0, 0.5)",
+                hidden: !1,
+                hiddenOnMobile: !1,
+                offCanvasSide: "left",
+                offCanvasCloseButton: !0,
+                animationOnShow: "",
+                animationOnHide: "",
+                onInit: function () { },
+                onLandscape: function () { },
+                onPortrait: function () { },
+                onShowOffCanvas: function () { },
+                onHideOffCanvas: function () { }
+            },
+                r = this,
+                u = Number.MAX_VALUE,
+                d = 1,
+                l = "click.nav touchstart.nav",
+                f = "mouseenter focusin",
+                c = "mouseleave focusout"
+            r.settings = {}
+            var t = (n(t), t)
+            n(t).find(".nav-search").length > 0 &&
+                n(t)
+                    .find(".nav-search")
+                    .find("form")
+                    .prepend(
+                        "<span class='nav-search-close-button' tabindex='0'>&#10005;</span>"
+                    ),
+                (r.init = function () {
+                    ; (r.settings = n.extend({}, o, s)),
+                        r.settings.offCanvasCloseButton &&
+                        n(t)
+                            .find(".nav-menus-wrapper")
+                            .prepend(
+                                "<span class='nav-menus-wrapper-close-button'>&#10005;</span>"
+                            ),
+                        "right" == r.settings.offCanvasSide &&
+                        n(t)
+                            .find(".nav-menus-wrapper")
+                            .addClass("nav-menus-wrapper-right"),
+                        r.settings.hidden &&
+                        (n(t).addClass("navigation-hidden"),
+                            (r.settings.mobileBreakpoint = 99999)),
+                        v(),
+                        r.settings.fixed && n(t).addClass("navigation-fixed"),
+                        n(t)
+                            .find(".nav-toggle")
+                            .on("click touchstart", function (n) {
+                                n.stopPropagation(),
+                                    n.preventDefault(),
+                                    r.showOffcanvas(),
+                                    s !== a && r.callback("onShowOffCanvas")
+                            }),
+                        n(t)
+                            .find(".nav-menus-wrapper-close-button")
+                            .on("click touchstart", function () {
+                                r.hideOffcanvas(), s !== a && r.callback("onHideOffCanvas")
+                            }),
+                        n(t)
+                            .find(".nav-search-button, .nav-search-close-button")
+                            .on("click touchstart keydown", function (i) {
+                                i.stopPropagation(), i.preventDefault()
+                                var e = i.keyCode || i.which
+                                "click" === i.type ||
+                                    "touchstart" === i.type ||
+                                    ("keydown" === i.type && 13 == e)
+                                    ? r.toggleSearch()
+                                    : 9 == e && n(i.target).blur()
+                            }),
+                        n(t).find(".megamenu-tabs").length > 0 && y(),
+                        n(i).resize(function () {
+                            r.initNavigationMode(C()), O(), r.settings.hiddenOnMobile && m()
+                        }),
+                        r.initNavigationMode(C()),
+                        r.settings.hiddenOnMobile && m(),
+                        s !== a && r.callback("onInit")
+                })
+            var h = function () {
+                n(t)
+                    .find(".nav-submenu")
+                    .hide(0),
+                    n(t)
+                        .find("li")
+                        .removeClass("focus")
+            },
+                v = function () {
+                    n(t)
+                        .find("li")
+                        .each(function () {
+                            n(this).children(".nav-dropdown,.megamenu-panel").length > 0 &&
+                                (n(this)
+                                    .children(".nav-dropdown,.megamenu-panel")
+                                    .addClass("nav-submenu"),
+                                    r.settings.submenuIndicator &&
+                                    n(this)
+                                        .children("a")
+                                        .append(
+                                            "<span class='submenu-indicator'><span class='submenu-indicator-chevron'></span></span>"
+                                        ))
+                        })
+                },
+                m = function () {
+                    n(t).hasClass("navigation-portrait")
+                        ? n(t).addClass("navigation-hidden")
+                        : n(t).removeClass("navigation-hidden")
+                }
+            ; (r.showSubmenu = function (i, e) {
+                C() > r.settings.mobileBreakpoint &&
+                    n(t)
+                        .find(".nav-search")
+                        .find("form")
+                        .fadeOut(),
+                    "fade" == e
+                        ? n(i)
+                            .children(".nav-submenu")
+                            .stop(!0, !0)
+                            .delay(r.settings.showDelayDuration)
+                            .fadeIn(r.settings.showDuration)
+                            .removeClass(r.settings.animationOnHide)
+                            .addClass(r.settings.animationOnShow)
+                        : n(i)
+                            .children(".nav-submenu")
+                            .stop(!0, !0)
+                            .delay(r.settings.showDelayDuration)
+                            .slideDown(r.settings.showDuration)
+                            .removeClass(r.settings.animationOnHide)
+                            .addClass(r.settings.animationOnShow),
+                    n(i).addClass("focus")
+            }),
+                (r.hideSubmenu = function (i, e) {
+                    "fade" == e
+                        ? n(i)
+                            .find(".nav-submenu")
+                            .stop(!0, !0)
+                            .delay(r.settings.hideDelayDuration)
+                            .fadeOut(r.settings.hideDuration)
+                            .removeClass(r.settings.animationOnShow)
+                            .addClass(r.settings.animationOnHide)
+                        : n(i)
+                            .find(".nav-submenu")
+                            .stop(!0, !0)
+                            .delay(r.settings.hideDelayDuration)
+                            .slideUp(r.settings.hideDuration)
+                            .removeClass(r.settings.animationOnShow)
+                            .addClass(r.settings.animationOnHide),
+                        n(i)
+                            .removeClass("focus")
+                            .find(".focus")
+                            .removeClass("focus")
+                })
+            var p = function () {
+                n("body").addClass("no-scroll"),
+                    r.settings.overlay &&
+                    (n(t).append("<div class='nav-overlay-panel'></div>"),
+                        n(t)
+                            .find(".nav-overlay-panel")
+                            .css("background-color", r.settings.overlayColor)
+                            .fadeIn(300)
+                            .on("click touchstart", function (n) {
+                                r.hideOffcanvas()
+                            }))
+            },
+                g = function () {
+                    n("body").removeClass("no-scroll"),
+                        r.settings.overlay &&
+                        n(t)
+                            .find(".nav-overlay-panel")
+                            .fadeOut(400, function () {
+                                n(this).remove()
+                            })
+                }
+            ; (r.showOffcanvas = function () {
+                p(),
+                    "left" == r.settings.offCanvasSide
+                        ? n(t)
+                            .find(".nav-menus-wrapper")
+                            .css("transition-property", "left")
+                            .addClass("nav-menus-wrapper-open")
+                        : n(t)
+                            .find(".nav-menus-wrapper")
+                            .css("transition-property", "right")
+                            .addClass("nav-menus-wrapper-open")
+            }),
+                (r.hideOffcanvas = function () {
+                    n(t)
+                        .find(".nav-menus-wrapper")
+                        .removeClass("nav-menus-wrapper-open")
+                        .on(
+                            "webkitTransitionEnd moztransitionend transitionend oTransitionEnd",
+                            function () {
+                                n(t)
+                                    .find(".nav-menus-wrapper")
+                                    .css("transition-property", "none")
+                                    .off()
+                            }
+                        ),
+                        g()
+                }),
+                (r.toggleOffcanvas = function () {
+                    C() <= r.settings.mobileBreakpoint &&
+                        (n(t)
+                            .find(".nav-menus-wrapper")
+                            .hasClass("nav-menus-wrapper-open")
+                            ? (r.hideOffcanvas(), s !== a && r.callback("onHideOffCanvas"))
+                            : (r.showOffcanvas(), s !== a && r.callback("onShowOffCanvas")))
+                }),
+                (r.toggleSearch = function () {
+                    "none" ==
+                        n(t)
+                            .find(".nav-search")
+                            .find("form")
+                            .css("display")
+                        ? (n(t)
+                            .find(".nav-search")
+                            .find("form")
+                            .fadeIn(200),
+                            n(t)
+                                .find(".nav-search")
+                                .find("input")
+                                .focus())
+                        : (n(t)
+                            .find(".nav-search")
+                            .find("form")
+                            .fadeOut(200),
+                            n(t)
+                                .find(".nav-search")
+                                .find("input")
+                                .blur())
+                }),
+                (r.initNavigationMode = function (i) {
+                    r.settings.responsive
+                        ? (i <= r.settings.mobileBreakpoint &&
+                            u > r.settings.mobileBreakpoint &&
+                            (n(t)
+                                .addClass("navigation-portrait")
+                                .removeClass("navigation-landscape"),
+                                S(),
+                                s !== a && r.callback("onPortrait")),
+                            i > r.settings.mobileBreakpoint &&
+                            d <= r.settings.mobileBreakpoint &&
+                            (n(t)
+                                .addClass("navigation-landscape")
+                                .removeClass("navigation-portrait"),
+                                k(),
+                                g(),
+                                r.hideOffcanvas(),
+                                s !== a && r.callback("onLandscape")),
+                            (u = i),
+                            (d = i))
+                        : (n(t).addClass("navigation-landscape"),
+                            k(),
+                            s !== a && r.callback("onLandscape"))
+                })
+            var b = function () {
+                n("html").on("click.body touchstart.body", function (i) {
+                    0 === n(i.target).closest(".navigation").length &&
+                        (n(t)
+                            .find(".nav-submenu")
+                            .fadeOut(),
+                            n(t)
+                                .find(".focus")
+                                .removeClass("focus"),
+                            n(t)
+                                .find(".nav-search")
+                                .find("form")
+                                .fadeOut())
+                })
+            },
+                C = function () {
+                    return (
+                        i.innerWidth || e.documentElement.clientWidth || e.body.clientWidth
+                    )
+                },
+                w = function () {
+                    n(t)
+                        .find(".nav-menu")
+                        .find("li, a")
+                        .off(l)
+                        .off(f)
+                        .off(c)
+                },
+                O = function () {
+                    if (C() > r.settings.mobileBreakpoint) {
+                        var i = n(t).outerWidth(!0)
+                        n(t)
+                            .find(".nav-menu")
+                            .children("li")
+                            .children(".nav-submenu")
+                            .each(function () {
+                                n(this)
+                                    .parent()
+                                    .position().left +
+                                    n(this).outerWidth() >
+                                    i
+                                    ? n(this).css("right", 0)
+                                    : n(this).css("right", "auto")
+                            })
+                    }
+                },
+                y = function () {
+                    function i(i) {
+                        var e = n(i)
+                            .children(".megamenu-tabs-nav")
+                            .children("li"),
+                            a = n(i).children(".megamenu-tabs-pane")
+                        n(e).on("click.tabs touchstart.tabs", function (i) {
+                            i.stopPropagation(),
+                                i.preventDefault(),
+                                n(e).removeClass("active"),
+                                n(this).addClass("active"),
+                                n(a)
+                                    .hide(0)
+                                    .removeClass("active"),
+                                n(a[n(this).index()])
+                                    .show(0)
+                                    .addClass("active")
+                        })
+                    }
+                    if (n(t).find(".megamenu-tabs").length > 0)
+                        for (var e = n(t).find(".megamenu-tabs"), a = 0; a < e.length; a++)
+                            i(e[a])
+                },
+                k = function () {
+                    w(),
+                        h(),
+                        navigator.userAgent.match(/Mobi/i) ||
+                            navigator.maxTouchPoints > 0 ||
+                            "click" == r.settings.submenuTrigger
+                            ? n(t)
+                                .find(".nav-menu, .nav-dropdown")
+                                .children("li")
+                                .children("a")
+                                .on(l, function (e) {
+                                    if (
+                                        (r.hideSubmenu(
+                                            n(this)
+                                                .parent("li")
+                                                .siblings("li"),
+                                            r.settings.effect
+                                        ),
+                                            n(this)
+                                                .closest(".nav-menu")
+                                                .siblings(".nav-menu")
+                                                .find(".nav-submenu")
+                                                .fadeOut(r.settings.hideDuration),
+                                            n(this).siblings(".nav-submenu").length > 0)
+                                    ) {
+                                        if (
+                                            (e.stopPropagation(),
+                                                e.preventDefault(),
+                                                "none" ==
+                                                n(this)
+                                                    .siblings(".nav-submenu")
+                                                    .css("display"))
+                                        )
+                                            return (
+                                                r.showSubmenu(
+                                                    n(this).parent("li"),
+                                                    r.settings.effect
+                                                ),
+                                                O(),
+                                                !1
+                                            )
+                                        if (
+                                            (r.hideSubmenu(n(this).parent("li"), r.settings.effect),
+                                                "_blank" === n(this).attr("target") ||
+                                                "blank" === n(this).attr("target"))
+                                        )
+                                            i.open(n(this).attr("href"))
+                                        else {
+                                            if (
+                                                "#" === n(this).attr("href") ||
+                                                "" === n(this).attr("href") ||
+                                                "javascript:void(0)" === n(this).attr("href")
+                                            )
+                                                return !1
+                                            i.location.href = n(this).attr("href")
+                                        }
+                                    }
+                                })
+                            : n(t)
+                                .find(".nav-menu")
+                                .find("li")
+                                .on(f, function () {
+                                    r.showSubmenu(this, r.settings.effect), O()
+                                })
+                                .on(c, function () {
+                                    r.hideSubmenu(this, r.settings.effect)
+                                }),
+                        r.settings.hideSubWhenGoOut && b()
+                },
+                S = function () {
+                    w(),
+                        h(),
+                        r.settings.visibleSubmenusOnMobile
+                            ? n(t)
+                                .find(".nav-submenu")
+                                .show(0)
+                            : (n(t)
+                                .find(".submenu-indicator")
+                                .removeClass("submenu-indicator-up"),
+                                r.settings.submenuIndicator &&
+                                    r.settings.submenuIndicatorTrigger
+                                    ? n(t)
+                                        .find(".submenu-indicator")
+                                        .on(l, function (i) {
+                                            return (
+                                                i.stopPropagation(),
+                                                i.preventDefault(),
+                                                r.hideSubmenu(
+                                                    n(this)
+                                                        .parent("a")
+                                                        .parent("li")
+                                                        .siblings("li"),
+                                                    "slide"
+                                                ),
+                                                r.hideSubmenu(
+                                                    n(this)
+                                                        .closest(".nav-menu")
+                                                        .siblings(".nav-menu")
+                                                        .children("li"),
+                                                    "slide"
+                                                ),
+                                                "none" ==
+                                                    n(this)
+                                                        .parent("a")
+                                                        .siblings(".nav-submenu")
+                                                        .css("display")
+                                                    ? (n(this).addClass("submenu-indicator-up"),
+                                                        n(this)
+                                                            .parent("a")
+                                                            .parent("li")
+                                                            .siblings("li")
+                                                            .find(".submenu-indicator")
+                                                            .removeClass("submenu-indicator-up"),
+                                                        n(this)
+                                                            .closest(".nav-menu")
+                                                            .siblings(".nav-menu")
+                                                            .find(".submenu-indicator")
+                                                            .removeClass("submenu-indicator-up"),
+                                                        r.showSubmenu(
+                                                            n(this)
+                                                                .parent("a")
+                                                                .parent("li"),
+                                                            "slide"
+                                                        ),
+                                                        !1)
+                                                    : (n(this)
+                                                        .parent("a")
+                                                        .parent("li")
+                                                        .find(".submenu-indicator")
+                                                        .removeClass("submenu-indicator-up"),
+                                                        void r.hideSubmenu(
+                                                            n(this)
+                                                                .parent("a")
+                                                                .parent("li"),
+                                                            "slide"
+                                                        ))
+                                            )
+                                        })
+                                    : n(t)
+                                        .find(".nav-menu, .nav-dropdown")
+                                        .children("li")
+                                        .children("a")
+                                        .on(l, function (e) {
+                                            if (
+                                                (e.stopPropagation(),
+                                                    e.preventDefault(),
+                                                    r.hideSubmenu(
+                                                        n(this)
+                                                            .parent("li")
+                                                            .siblings("li"),
+                                                        r.settings.effect
+                                                    ),
+                                                    r.hideSubmenu(
+                                                        n(this)
+                                                            .closest(".nav-menu")
+                                                            .siblings(".nav-menu")
+                                                            .children("li"),
+                                                        "slide"
+                                                    ),
+                                                    "none" ==
+                                                    n(this)
+                                                        .siblings(".nav-submenu")
+                                                        .css("display"))
+                                            )
+                                                return (
+                                                    n(this)
+                                                        .children(".submenu-indicator")
+                                                        .addClass("submenu-indicator-up"),
+                                                    n(this)
+                                                        .parent("li")
+                                                        .siblings("li")
+                                                        .find(".submenu-indicator")
+                                                        .removeClass("submenu-indicator-up"),
+                                                    n(this)
+                                                        .closest(".nav-menu")
+                                                        .siblings(".nav-menu")
+                                                        .find(".submenu-indicator")
+                                                        .removeClass("submenu-indicator-up"),
+                                                    r.showSubmenu(n(this).parent("li"), "slide"),
+                                                    !1
+                                                )
+                                            if (
+                                                (n(this)
+                                                    .parent("li")
+                                                    .find(".submenu-indicator")
+                                                    .removeClass("submenu-indicator-up"),
+                                                    r.hideSubmenu(n(this).parent("li"), "slide"),
+                                                    "_blank" === n(this).attr("target") ||
+                                                    "blank" === n(this).attr("target"))
+                                            )
+                                                i.open(n(this).attr("href"))
+                                            else {
+                                                if (
+                                                    "#" === n(this).attr("href") ||
+                                                    "" === n(this).attr("href") ||
+                                                    "javascript:void(0)" === n(this).attr("href")
+                                                )
+                                                    return !1
+                                                i.location.href = n(this).attr("href")
+                                            }
+                                        }))
+                }
+            ; (r.callback = function (n) {
+                s[n] !== a && s[n].call(t)
+            }),
+                r.init()
+        }),
+            (n.fn.navigation = function (i) {
+                return this.each(function () {
+                    if (a === n(this).data("navigation")) {
+                        var e = new n.navigation(this, i)
+                        n(this).data("navigation", e)
+                    }
+                })
+            })
+    })(jQuery, window, document)
+
+    ; (function ($) {
+        "use strict"
+
+        var $window = $(window)
+
+        if ($.fn.navigation) {
+            $("#navigation1").navigation()
+            $("#always-hidden-nav").navigation({
+                hidden: true
+            })
+        }
+
+        $window.on("load", function () {
+            $("#preloader").fadeOut("slow", function () {
+                $(this).remove()
+            })
+        })
+    })(jQuery)
+</script>
+
+<script>
+    const togglePassword = document.querySelector("#togglePassword");
+    const password = document.querySelector("#formLogin #Password");
+    togglePassword.addEventListener("click", function () {
+        // toggle the type attribute
+        const type = password.getAttribute("type") === "password" ? "text" : "password";
+        password.setAttribute("type", type);
+        // toggle the eye icon
+        this.classList.toggle('fa-eye');
+        this.classList.toggle('fa-eye-slash');
+    });
+</script>
+<script>
+    function show_login_model()
+    {
+        $('#login-arihant-popup').modal('show');
+    }
+</script>

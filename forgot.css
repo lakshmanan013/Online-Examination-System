@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f5f5f5; /* Adjust for desired background color */
+  }
+  
+  /* Login Container Styles */
+  .login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Logo Image Styles */
+  .logo {
+    width: 100px;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 5px; /* Optional: Add rounded corners */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+  }
+  
+  /* Forgot Password Specific Styles */
+  .login-container.forgot-container {
+    height: 300px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  .forgotten-link {
+    color: #333;
+    text-decoration: none;
+    font-weight: normal;
+  }
+  
+  button {
+    background-color: #4CAF50; /* Use a branded color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Background Image Styles (if applicable) */
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.2; /* Adjust for desired visibility */
+    z-index: -1;
+  }
+  
